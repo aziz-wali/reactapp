@@ -1,0 +1,8 @@
+.aboutImage img{
+height: 320px;
+width: 100%;
+}
+.aboutImage img:hover{
+    transform: rotate(2deg) scale(1.1);
+    transition: all 1s;
+}

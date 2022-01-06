@@ -1,0 +1,11 @@
+.contact {
+    width:600px;
+    margin-bottom: 50px;
+}
+.contact textarea{
+    height:140px;
+    margin-bottom: 20px;
+}
+.contact  input{
+    margin-bottom: 10px;
+}
